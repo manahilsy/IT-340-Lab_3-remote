@@ -1,0 +1,25 @@
+commit ceba2120afa45a312a74b00ed7be66e4990e9cb8
+Author: manahilsy <ms379@njit.edu>
+Date:   Fri Nov 6 22:09:04 2026 +0000
+
+    Revert "part 7"
+    
+    This reverts commit 29cbb7856a04b55f1e2da12cd6cb8af3702b3568.
+
+commit 29cbb7856a04b55f1e2da12cd6cb8af3702b3568
+Author: manahilsy <ms379@njit.edu>
+Date:   Fri Nov 6 22:08:38 2026 +0000
+
+    part 7
+
+commit d2cfcbc73814e32c2066b5b84ad406b27c75b2b3
+Author: manahilsy <ms379@njit.edu>
+Date:   Fri Nov 6 21:49:50 2026 +0000
+
+    new edit part 5
+
+commit 1ce9f3d1f7b45a39f6437118131d4f23fe61f47e
+Author: manahilsy <ms379@njit.edu>
+Date:   Fri Nov 6 21:44:56 2026 +0000
+
+    lab 3
